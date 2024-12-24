@@ -134,7 +134,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Indraprastha Institute of Information Technology Delhi ',
-      degree: 'Bachelor''s degree, Computer Science and Artificial Intelligence',
+      degree: "Bachelor's degree, Computer Science and Artificial Intelligence",
       from: '2023',
       to: '2027',
     },
