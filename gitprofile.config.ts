@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
       ],
     },
@@ -101,41 +101,44 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'HMI LAB',
+      position: 'Research Intern',
+      from: 'May 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://hmi.iiitd.edu.in/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'AIISC',
+      position: 'Research Intern',
+      from: 'Sep 2024',
+      to: 'Present',
+      companyLink: 'https://aiisc.ai/',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Neural Networks and Deep Learning',
+      body: 'deeplearning.ai',
+      year: 'Oct 2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/9LHW9S3RPEBX',
     },
+
+    {
+      name: 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning',
+      body: 'deeplearning.ai',
+      year: 'May 2021',
+      link: 'https://www.coursera.org/account/accomplishments/verify/ZHTL2VPZ4NQ9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
+    },
+    
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Indraprastha Institute of Information Technology Delhi ',
+      degree: 'Bachelor''s degree, Computer Science and Artificial Intelligence',
+      from: '2023',
+      to: '2027',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+    
   ],
   publications: [
     {
