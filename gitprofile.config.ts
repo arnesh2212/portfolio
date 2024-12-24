@@ -55,12 +55,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'linkedin.com/in/arnesh-batra-9684a4211/',
+    linkedin: 'arnesh-batra-9684a4211/',
     twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'arnesh2212',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -71,7 +71,7 @@ const CONFIG = {
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
-    telegram: 'arnesh2212',
+    telegram: '',
     website: 'https://arnesh2212.github.io/portfolio/',
     phone: '',
     email: 'arnesh23129@iiitd.ac.in | arneshbatra2212@gmail.com',
