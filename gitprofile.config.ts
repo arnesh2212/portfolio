@@ -40,7 +40,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: 'arnesh2212',
+    instagram: 'arnesh_2212',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
