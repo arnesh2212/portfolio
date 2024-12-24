@@ -139,28 +139,30 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'ASGIR: Audio Spectrogram Transformer Guided Classification And Information Retrieval For Birds',
+      conferenceName: 'InterSpeech'24',
+      journalName: '1st Author',
+      authors: '',
+      link: 'https://arxiv.org/abs/2407.18927',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Recognition and interpretation of bird vocalizations are pivotal in ornithological research and ecological conservation efforts due to their significance in understanding avian behaviour, performing habitat assessment and judging ecological health. This paper presents an audio spectrogram-guided classification framework called ASGIR for improved bird sound recognition and information retrieval. Our work is accompanied by a simple-to-use, two-step information retrieval system that uses geographical location and bird sounds to localize and retrieve relevant bird information by scraping Wikipedia page information of recognized birds. ASGIR offers a substantial performance on a random subset of 51 classes of Xeno-Canto dataset Bird sounds from European countries with a median of 100\% performance on F1, Precision and Sensitivity metrics.',
+      
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'M-SCAN: A Multistage Framework for Lumbar Spinal Canal Stenosis Grading Using Multi-View Cross Attention',
+      conferenceName: 'Preprint - ResearchGate',
+      journalName: '1st Author',
+      authors: '',
+      link: 'https://www.researchgate.net/publication/387368137_A_Multistage_Deep_Learning_Framework_for_Lumbar_Spinal_Canal_Stenosis_Diagnosis_Using_Multi-View_Cross_Attention',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'The increasing prevalence of lumbar spinal canal stenosis has resulted in a surge of MRI imaging, leading to labor-intensive interpretation and significant inter-reader variability, even among expert radiologists. This paper introduces a novel and efficient deep-learning framework that fully automates the grading of lumbar spinal canal stenosis. We demonstrate state-of-the-art performance in grading spinal canal stenosis on a dataset of 1,975 unique studies, each containing three distinct types of 3D cross-sectional spine images: Axial T2, Sagittal T1, and Sagittal T2/STIR. Using a distinctive training strategy, our proposed multistage approach effectively integrates Sagittal and Axial images. This strategy employs a multi-view model with a sequence-based architecture, optimizing feature extraction and cross-view alignment to achieve superior predictive accuracy in spinal canal stenosis grading.',
+      
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
