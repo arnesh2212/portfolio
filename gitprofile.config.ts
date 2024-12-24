@@ -140,7 +140,7 @@ const CONFIG = {
   publications: [
     {
       title: 'ASGIR: Audio Spectrogram Transformer Guided Classification And Information Retrieval For Birds',
-      conferenceName: 'InterSpeech'24',
+      conferenceName: 'InterSpeech 24',
       journalName: '1st Author',
       authors: '',
       link: 'https://arxiv.org/abs/2407.18927',
